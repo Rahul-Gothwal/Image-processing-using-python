@@ -1,5 +1,5 @@
 # Image processing using python
-Different Image processing tools, tricks and techniques in pyton to learn image processing for better models containing image process and computer vision techniques. This repo is designed for beginners to learn basics of IMP who has a little pripor knowledge of python. 
+Different Image processing tools, tricks and techniques in pyton to learn image processing for better models containing image process and computer vision techniques. This repo is designed for beginners to learn basics of IMP who has a little pior knowledge of python. 
 
 
 ## Tools and Libraries used
