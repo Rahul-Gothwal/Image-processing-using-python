@@ -13,8 +13,9 @@ Different Image processing tools, tricks and techniques in pyton to learn image 
 ---
 ## Sequence
 1. [image processing basics with scikit image](https://github.com/Rahul-Gothwal/Image-processing-using-python/blob/keras/image_processing_basics.ipynb)
-2. [image processing opencv basics](https://github.com/Rahul-Gothwal/Image-processing-using-python/blob/keras/image_processing_opencv_basics.ipynb)
-3. [Image data augmentation with keras](https://github.com/Rahul-Gothwal/Image-processing-using-python/blob/keras/Image_data_augmentation-keras/Image%20Data%20Augmentation%20with%20Keras%20-%20Complete.ipynb)
+2. [image processing open-CV basics](https://github.com/Rahul-Gothwal/Image-processing-using-python/blob/keras/image_processing_opencv_basics.ipynb)
+3. [Object detection with open-CV](https://github.com/Rahul-Gothwal/Image-processing-using-python/tree/open-CV/Object%20detection%20open-CV)
+4. [Image data augmentation with keras](https://github.com/Rahul-Gothwal/Image-processing-using-python/blob/keras/Image_data_augmentation-keras/Image%20Data%20Augmentation%20with%20Keras%20-%20Complete.ipynb)
 
 
 ### NOTE
